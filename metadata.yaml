@@ -1,0 +1,27 @@
+_repo: The-Snow-Burner_36121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oyen, Henry
+    birthdate: 1883
+    deathdate: 1921
+    gutenberg_agent_id: '8648'
+    url: http://www.gutenberg.org/2009/agents/8648
+description: Novel set in a northern logging camp.
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Lumber camps -- Fiction'
+- !lcsh 'Minnesota -- Fiction'
+title: The Snow-Burner
+url: http://www.gutenberg.org/ebooks/36121
